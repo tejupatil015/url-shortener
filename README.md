@@ -41,8 +41,7 @@ A URL Shortener Web Application that converts long URLs into short, easy-to-shar
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/url-shortener.git
-```
+git clone  tejupatil015/url-shortener
 
 ### 2. Navigate to project folder
 
@@ -121,7 +120,7 @@ The `.env.example` file provides the required environment variable names.
 
 Electronics and Telecommunication Engineering Student
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/tejupatil015/url-shortener
 
 ---
 
